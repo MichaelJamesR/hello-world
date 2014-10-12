@@ -10,3 +10,5 @@ var foo = function (bar) {
   return 'foobar';
 };
 ```
+
+Made this edit in the branch.
